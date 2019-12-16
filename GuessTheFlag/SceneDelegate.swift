@@ -1,11 +1,3 @@
-//
-//  SceneDelegate.swift
-//  GuessTheFlag
-//
-//  Created by Trae Robbins on 12/13/19.
-//  Copyright © 2019 Trae Robbins. All rights reserved.
-//
-
 import UIKit
 import SwiftUI
 
